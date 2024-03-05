@@ -27,7 +27,7 @@ func add_poki_export(cfg: ConfigFile):
 	cfg.set_value(poki_section, "exclude_filter", "")
 
 	#preset.x.options
-	cfg.set_value(poki_options, "thread_support", false)
+	cfg.set_value(poki_options, "variant/thread_support", false)
 	cfg.set_value(poki_options, "html/custom_html_shell", "res://addons/poki-sdk/full-size.html")
 	cfg.set_value(poki_options, "html/head_include", """
 	<script>
