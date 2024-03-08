@@ -1,0 +1,15 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1709908679
+default_env.tres::Environment::9050616898433830919::1709908672::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1709908546::0::1::::<><>::
+icon.png::CompressedTexture2D::240521590607789519::1709908442::1709908547::1::::<><>::
+README.md::TextFile::-1::1709908442::0::1::::<><>::
+::res://addons/::1709908442
+::res://addons/demo/::1709908672
+awesomeness.ogg::AudioStreamOggVorbis::8452894891967135069::1709908442::1709908547::1::::<><>::
+demo.gd::GDScript::-1::1709908672::0::1::::<>Node<>::
+DemoScene.tscn::PackedScene::1198665955262128028::1709908672::0::1::::<><>::res://addons/demo/demo.gd<>uid://dsov7destv8b6::::res://addons/demo/awesomeness.ogg
+::res://addons/poki-sdk/::1709908452
+plugin.cfg::TextFile::-1::1709908442::0::1::::<><>::
+plugin.gd::GDScript::-1::1709908514::0::1::::<>EditorPlugin<>::
+pokisdk.gd::GDScript::-1::1709908514::0::1::::<>Node<>::
